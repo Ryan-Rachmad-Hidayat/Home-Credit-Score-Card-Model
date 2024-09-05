@@ -17,3 +17,6 @@ The best model to predict client’s repayment abilities is Random Forest model 
 
 ### Dataset
 https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/vix-assets/home-credit-indonesia/home-credit-default-risk.zip
+
+### Canva Presentation
+https://www.canva.com/design/DAGBDzErHfU/JjHh3f-d3IROJ4OI8KDjrw/edit?utm_content=DAGBDzErHfU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
